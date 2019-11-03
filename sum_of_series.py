@@ -8,7 +8,7 @@ x = int(input("Input the value of x: "))
 n = int(input("Input the value of n: "))
 output = str(x)
 k = 3
-s = int(x)
+s = x
 
 for i in range(1,n):
     sign = (-1)**i
