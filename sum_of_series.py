@@ -1,4 +1,4 @@
-# sum of the n first element of this series  x -  x**3/3! + x**5/n! -... for given x
+# sum of the n first element of this series  x -  x**3/3! + x**5/5! - x**7/7!... for given x
 # and display the detail of the series as string (displaying the value of each term of the series).
 
 
